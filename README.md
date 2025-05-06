@@ -1,4 +1,4 @@
-Smart Resume Analyzer
+﻿Smart Resume Analyzer
 A powerful, AI-driven project that analyzes resumes to evaluate candidate skills, experience, and match percentage for job descriptions. This tool helps recruiters filter out the best-fit candidates efficiently using machine learning and natural language processing (NLP) techniques.
 
 🚀 Features
@@ -59,6 +59,7 @@ pip install -r requirements.txt
 
 🚀 Usage
 Run the analyzer (command-line version)
+
 python app.py
 
 
